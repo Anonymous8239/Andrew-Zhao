@@ -214,7 +214,7 @@ a{
 	background-clip: text;
 	text-fill-color: transparent
 }
-.body img{
-align-items: center;
-	border-radius: 15px;
+.img{
+border-radius: 25px;
+
 }
